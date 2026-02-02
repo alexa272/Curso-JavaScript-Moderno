@@ -1,2 +1,2 @@
-# Curso-JavaScript-Moderno-Gu-a-Definitiva
+# Curso-JavaScript-Moderno
 Compilado de proyectos realizados en curso de JavaScript Moderno
